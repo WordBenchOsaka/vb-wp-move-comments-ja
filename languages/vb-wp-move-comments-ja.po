@@ -1,0 +1,120 @@
+# Copyright (C) 2013 WordPress Move Comments
+# This file is distributed under the same license as the WordPress Move Comments package.
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress Move Comments 1.0\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/vb-wp-move-comments\n"
+"POT-Creation-Date: 2013-04-12 05:07:29+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2013-04-13 14:15+0900\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: WordBench Osaka <wordbench.osaka@gmai.com>\n"
+"X-Generator: Poedit 1.5.5\n"
+"Language: Japanese\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+#: vb-wp-move-comments.php:42
+msgid "Comment Options"
+msgstr "コメントオプション"
+
+#: vb-wp-move-comments.php:52 vb-wp-move-comments.php:173
+msgid "Page/Post ID"
+msgstr "ページ/投稿 ID"
+
+#: vb-wp-move-comments.php:60 vb-wp-move-comments.php:178
+msgid "Comment Parent ID"
+msgstr "親 ID のコメント"
+
+#: vb-wp-move-comments.php:68 vb-wp-move-comments.php:183
+msgid "Comment Author ID"
+msgstr "コメント作成者の ID"
+
+#: vb-wp-move-comments.php:114
+msgid "Support"
+msgstr "サポート"
+
+#: vb-wp-move-comments.php:115
+msgid "Donate"
+msgstr "寄付"
+
+#: vb-wp-move-comments.php:150
+msgid "Reply to Comment"
+msgstr "コメントに返信"
+
+#: vb-wp-move-comments.php:151
+msgid "Add new Comment"
+msgstr "コメントを追加"
+
+#: vb-wp-move-comments.php:156
+msgid "Name"
+msgstr "名前"
+
+#: vb-wp-move-comments.php:161
+msgid "E-mail"
+msgstr "メール"
+
+#: vb-wp-move-comments.php:166
+msgid "URL"
+msgstr "URL"
+
+#: vb-wp-move-comments.php:198
+msgid "Add Comment"
+msgstr "コメントの追加"
+
+#: vb-wp-move-comments.php:199
+msgid "Update Comment"
+msgstr "コメントの更新"
+
+#: vb-wp-move-comments.php:200
+msgid "Submit Reply"
+msgstr "返信する"
+
+#: vb-wp-move-comments.php:201
+msgid "Cancel"
+msgstr "キャンセル"
+
+#: vb-wp-move-comments.php:259
+msgid "Quick Edit"
+msgstr "クイック編集"
+
+#: vb-wp-move-comments.php:259
+msgid "Quick&nbsp;Edit"
+msgstr "クイック編集"
+
+#. Plugin Name of the plugin/theme
+msgid "WordPress Move Comments"
+msgstr "WordPress Move Comments"
+
+#. Plugin URI of the plugin/theme
+msgid ""
+"http://www.velvetblues.com/web-development-blog/wp-plugin-wordpress-move-"
+"comments/"
+msgstr ""
+"http://www.velvetblues.com/web-development-blog/wp-plugin-wordpress-move-"
+"comments/"
+
+#. Description of the plugin/theme
+msgid ""
+"Moving comments between posts or parents can be a chore, especially if your "
+"blog uses threaded comments. WordPress Move Comments simplifies this process "
+"by enabling users to easily change the comment's post or page, the parent "
+"comment, and the comment author. Edits can be made via both Quick Edit and "
+"the simpler single-comment edit screen. To get started: 1) Activate, 2) Edit "
+"your comments."
+msgstr ""
+"階層関係になっている投稿間でコメントを移動すると、特にスレッド化されたコメン"
+"ト形式の場合、とても面倒なことになる場合があります。WordPress Move Comments "
+"ではこのプロセスをシンプルにし、コメントをつけた投稿やページ、親コメントとコ"
+"メント投稿者をユーザーが簡単に変更することができます。編集はクイック編集もし"
+"くは単純なシングルコメントエディターの両方で可能です。1) 有効化して 2) コメン"
+"トを編集してみましょう。"
+
+#. Author of the plugin/theme
+msgid "VelvetBlues.com"
+msgstr "VelvetBlues.com"
+
+#. Author URI of the plugin/theme
+msgid "http://www.velvetblues.com/"
+msgstr "http://www.velvetblues.com/"
